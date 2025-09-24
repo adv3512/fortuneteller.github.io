@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head> 
-  <title>How to Fold A Fortune Teller </title>
+  <title>How to Fold A Fortune Teller</title>
 </head>
 <Body> 
   <h1> Step:1 </h1>
